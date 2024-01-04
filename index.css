@@ -1,0 +1,30 @@
+nav > ul > li {
+    display: inline;
+    margin: 20px ; 
+    }
+nav > ul > li > a{
+    text-decoration: none;
+          }
+footer{
+    text-align: center;
+    margin: 20px;
+    display: inline;
+}
+body{
+    margin: 30px;
+}
+.hints{
+    color:red;
+    font-style: italic;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+#text{
+    background-color: aquamarine;
+  text-transform:capitalize;
+}
+*{
+    width: 80;
+}
